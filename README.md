@@ -8,7 +8,8 @@ This plugin is only for connection testing and local trials, please do not use i
 - Big data development, recommend to use [DataWorks Data IDE](https://ide-cn-shanghai.data.aliyun.com/) instead.
 - Data API development, recommend to use [DataWorks Data API](https://ds-cn-shanghai.data.aliyun.com/) instead.
 - Data Analytics development, recommend to use [DataWorks Data Analytics](https://da-cn-shanghai.data.aliyun.com/) instead.
-- Managing instances, recommend to use [HoloWeb](https://holoweb-cn-shanghai.data.aliyun.com/) instead.
+- Managing databases, schemas and tables, recommend to use [HoloWeb](https://holoweb-cn-shanghai.data.aliyun.com/) instead.
+- Managing instances, recommend to use [Hologres Console](https://hologram.console.aliyun.com/) instead.
 
 # Quick Start
 
