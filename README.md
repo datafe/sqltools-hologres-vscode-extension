@@ -2,6 +2,14 @@
 
 This is a lightweight fork of the [PostgreSQL driver from SQLTools](https://vscode-sqltools.mteixeira.dev/?umd_source=repository&utm_medium=readme&utm_campaign=pg) to integrate with Alibaba Cloud Hologres.
 
+# Premises and Recommends
+
+This plugin is only for connection testing and local trials, please do not use it in development and production.
+- Big data development, recommend to use [DataWorks Data IDE](https://ide-cn-shanghai.data.aliyun.com/) instead.
+- Data API development, recommend to use [DataWorks Data API](https://ds-cn-shanghai.data.aliyun.com/) instead.
+- Data Analytics development, recommend to use [DataWorks Data Analytics](https://da-cn-shanghai.data.aliyun.com/) instead.
+- Managing instances, recommend to use [HoloWeb](https://holoweb-cn-shanghai.data.aliyun.com/) instead.
+
 # Quick Start
 
 - Prepare a Hologres instance, goto [Hologres Console](https://hologram.console.aliyun.com/) and apply a instance.
@@ -15,7 +23,7 @@ This is a lightweight fork of the [PostgreSQL driver from SQLTools](https://vsco
 ![Create Databases, Schemas and Tables](https://img.alicdn.com/imgextra/i3/O1CN01nMNOez1gTXpGjnuv4_!!6000000004143-0-tps-2878-1506.jpg)
 ![Insert Data](https://img.alicdn.com/imgextra/i1/O1CN01dtGTHg1l9uvlhtyH5_!!6000000004777-0-tps-2878-1508.jpg)
 - Install [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
-- Install this VSCode plugin.
+- Install [SQLTools Hologres Driver](https://marketplace.visualstudio.com/items?itemName=dataworks.sqltools-driver-hologres) plugin.
 - Open SQLTools and choose Hologres as the connection type.
 ![Hologres SQLTools Demo1](https://img.alicdn.com/imgextra/i2/O1CN01x9Geic1nwaFQC319O_!!6000000005154-0-tps-2878-1406.jpg)
 - Input the connection information.
