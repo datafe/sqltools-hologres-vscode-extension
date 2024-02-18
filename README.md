@@ -15,7 +15,7 @@ This plugin is only for connection testing and local trials, please do not use i
 
 - Prepare a Hologres instance, goto [Hologres Console](https://hologram.console.aliyun.com/) and apply a instance.
 - Open instance public network and enable SSL, then download the SSL certificate.
-![Enable Hologres Public Network](https://img.alicdn.com/imgextra/i3/O1CN01UXerRT1MSoslF2qd1_!!6000000001434-0-tps-2878-1508.jpg)
+![Enable Hologres Public Network](https://img.alicdn.com/imgextra/i2/O1CN01y1sXyY1pZLNoJuf8c_!!6000000005374-0-tps-2806-1458.jpg)
 ![Enable Hologres SSL](https://img.alicdn.com/imgextra/i1/O1CN01AQ0efO25owjAnLB01_!!6000000007574-0-tps-2878-1506.jpg)
 - Click account management and open HoloWeb, then create a user account for connection.
 ![Goto Account Management](https://img.alicdn.com/imgextra/i2/O1CN01FVEGT51o5kAaMYBPV_!!6000000005174-0-tps-2878-1508.jpg)
