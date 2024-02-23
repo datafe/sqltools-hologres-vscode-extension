@@ -1,6 +1,6 @@
 # SQLTools Hologres Driver
 
-This is a lightweight fork of the [PostgreSQL driver from SQLTools](https://vscode-sqltools.mteixeira.dev/?umd_source=repository&utm_medium=readme&utm_campaign=pg) to integrate with Alibaba Cloud Hologres.
+This is a lightweight fork of the [PostgreSQL driver from SQLTools](https://vscode-sqltools.mteixeira.dev/?umd_source=repository&utm_medium=readme&utm_campaign=pg) to integrate with Alibaba Cloud Hologres. Providing for running Hologres SQL and getting results, SQL formatting, generating SQL statements and SQL completion.
 
 # Premises and Recommends
 
@@ -13,7 +13,7 @@ This plugin is only for connection testing and local trials, please do not use i
 
 # Quick Start
 
-- Prepare a Hologres instance, goto [Hologres Console](https://hologram.console.aliyun.com/) and apply a instance.
+- Prepare a Hologres instance, goto [Hologres Console](https://hologram.console.aliyun.com/) and apply an instance.
 - Open instance public network and enable SSL, then download the SSL certificate.
 ![Enable Hologres Public Network](https://img.alicdn.com/imgextra/i2/O1CN01y1sXyY1pZLNoJuf8c_!!6000000005374-0-tps-2806-1458.jpg)
 ![Enable Hologres SSL](https://img.alicdn.com/imgextra/i1/O1CN01AQ0efO25owjAnLB01_!!6000000007574-0-tps-2878-1506.jpg)
