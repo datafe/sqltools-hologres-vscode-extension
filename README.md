@@ -4,7 +4,7 @@ This is a lightweight fork of the [PostgreSQL driver from SQLTools](https://vsco
 
 # Premises and Recommends
 
-This plugin is only for connection testing and local trials, please do not use it in development and production.
+This plugin is only for connection testing and local resources management, please use below products for development and production.
 - Big data development, recommend to use [DataWorks Data IDE](https://ide-cn-shanghai.data.aliyun.com/) instead.
 - Data API development, recommend to use [DataWorks Data API](https://ds-cn-shanghai.data.aliyun.com/) instead.
 - Data Analytics development, recommend to use [DataWorks Data Analytics](https://da-cn-shanghai.data.aliyun.com/) instead.
